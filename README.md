@@ -21,8 +21,6 @@
 - ["Car Accident"](https://github.com/EDGE775/job4j_car_accident) Spring (MVC, ORM, Data, Security), JSP, JSTL, Bootstrap, JDBC, Hibernate, Maven, Tomcat
 - ["Todo List"](https://github.com/EDGE775/job4j_todo) Java EE Servlets, PostgreSQL, Hibernate, Maven, Tomcat, Javascript, AJAX, HTML, Bootstrap
 - ["Dream Job"](https://github.com/EDGE775/job4j_dreamjob) Java EE Servlets, JSP, JSTL, Javascript, AJAX, PostgreSQL, JDBC, JUnit4, Mockito, PowerMock
-- ["Grabber"](https://github.com/EDGE775/job4j_grabber) Java SE, PostgreSQL, JDBC, Liquibase, Quartz, JSOUP
-- ["Tracker"](https://github.com/EDGE775/job4j_tracker) Java SE, PostgreSQL, JDBC, Liquibase, JUnit4
 
 ##### My other projects:
 
