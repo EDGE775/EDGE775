@@ -17,7 +17,7 @@
 
 - ["Chat"](https://github.com/EDGE775/job4j_chat) REST API, Spring Boot(Data, Security, Test), JWT аутентификация, PostgreSQL, Maven, Junit, Mockito
 - ["Car Sales"](https://github.com/EDGE775/job4j_cars) Java EE Servlets, Javascript, jQuery, HTML, Bootstrap, PostgreSQL, HSQLDB, Hibernate, JUnit4
-- ["Forum"](https://github.com/EDGE775/job4j_forumhttps://github.com/EDGE775/job4j_car_accident) Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Liquibase, Maven, Heroku, Junit
+- ["Forum"](https://github.com/EDGE775/job4j_forum) Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Liquibase, Maven, Heroku, Junit
 - ["Car Accident"](https://github.com/EDGE775/job4j_car_accident) Spring (MVC, ORM, Data, Security), JSP, JSTL, Bootstrap, JDBC, Hibernate, Maven, Tomcat
 - ["Todo List"](https://github.com/EDGE775/job4j_todo) Java EE Servlets, PostgreSQL, Hibernate, Maven, Tomcat, Javascript, AJAX, HTML, Bootstrap
 - ["Dream Job"](https://github.com/EDGE775/job4j_dreamjob) Java EE Servlets, JSP, JSTL, Javascript, AJAX, PostgreSQL, JDBC, JUnit4, Mockito, PowerMock
@@ -29,18 +29,3 @@
 - ["ClassificatorComplete"](https://github.com/EDGE775/ClassificatorComplete) .NET Framework 4.7, WPF MVVC, Windows Forms, Revit API 2018(2020)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDGE775&layout=compact)](https://github.com/EDGE775/github-readme-stats)
-
-<!--
-**EDGE775/EDGE775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
