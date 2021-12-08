@@ -2,7 +2,7 @@
 
 ##### About me
 - I am 28 year old programmer from Moscow 💻
-- I started learning programming from the C# language
+- I started programming from the C# language
 - My Java expirience is 1 year ⌚
 
 ##### Core technologies
@@ -15,18 +15,18 @@
 
 ##### My Java projects:
 
-- ["Car Sales"](https://github.com/EDGE775/job4j_cars) Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
-- ["Forum"](https://github.com/EDGE775/job4j_forumhttps://github.com/EDGE775/job4j_car_accident) Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku
-- ["Car Accident"](https://github.com/EDGE775/job4j_car_accident) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
-- ["Todo List"](https://github.com/EDGE775/job4j_todo) Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
-- ["Dream Job"](https://github.com/EDGE775/job4j_dreamjob) Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock
-- ["Pooh JMS"](https://github.com/EDGE775/job4j_pooh) Java SE, Concurrency, Sockets, Java IO, GSON
+- ["Chat"](https://github.com/EDGE775/job4j_chat) REST API, Spring Boot(Data, Security, Test), JWT аутентификация, PostgreSQL, Maven, Junit, Mockito
+- ["Car Sales"](https://github.com/EDGE775/job4j_cars) Java EE Servlets, Javascript, jQuery, HTML, Bootstrap, PostgreSQL, HSQLDB, Hibernate, JUnit4
+- ["Forum"](https://github.com/EDGE775/job4j_forumhttps://github.com/EDGE775/job4j_car_accident) Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Liquibase, Maven, Heroku, Junit
+- ["Car Accident"](https://github.com/EDGE775/job4j_car_accident) Spring (MVC, ORM, Data, Security), JSP, JSTL, Bootstrap, JDBC, Hibernate, Maven, Tomcat
+- ["Todo List"](https://github.com/EDGE775/job4j_todo) Java EE Servlets, PostgreSQL, Hibernate, Maven, Tomcat, Javascript, AJAX, HTML, Bootstrap
+- ["Dream Job"](https://github.com/EDGE775/job4j_dreamjob) Java EE Servlets, JSP, JSTL, Javascript, AJAX, PostgreSQL, JDBC, JUnit4, Mockito, PowerMock
 - ["Grabber"](https://github.com/EDGE775/job4j_grabber) Java SE, PostgreSQL, JDBC, Liquibase, Quartz, JSOUP
 - ["Tracker"](https://github.com/EDGE775/job4j_tracker) Java SE, PostgreSQL, JDBC, Liquibase, JUnit4
 
 ##### My other projects:
 
-- ["ClassificatorComplete"](https://github.com/EDGE775/ClassificatorComplete) Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
+- ["ClassificatorComplete"](https://github.com/EDGE775/ClassificatorComplete) .NET Framework 4.7, WPF MVVC, Windows Forms, Revit API 2018(2020)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDGE775&layout=compact)](https://github.com/EDGE775/github-readme-stats)
 
