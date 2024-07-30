@@ -1,9 +1,9 @@
 ### Hi there! 👋 My name is Dmitry. Welcome! ✌️
 
 ##### About me
-- I am 28 year old programmer from Moscow 💻
+- I am 31 year old programmer from Moscow 💻
 - I started programming from the C# language
-- My Java expirience is 1 year ⌚
+- My Java expirience is 3 year ⌚
 
 ##### Core technologies
 ![Java](https://img.shields.io/badge/Java-%3E%3D8-orange)
